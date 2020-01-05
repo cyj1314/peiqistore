@@ -1,11 +1,2 @@
-git demo is a record
-qa
-
-qa
-qa
-qa
-qaqaqa
-a
-@@
-
-
+Git is a distributed version control system.
+Git is free software.
